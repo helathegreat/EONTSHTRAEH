@@ -1,0 +1,15 @@
+2024-10-09 14:39:15,572 [1] INFO  Logger (null) - Hearthbuddy Version: 0.0.0.0
+Path: C:\hsbuddy\<ExeName>
+
+OS Name: Microsoft Windows 10 专业版
+OS Version: 10.0.19045
+OS Architecture: 64 位
+InstalledUICulture: zh-CN [Chinese (Simplified, China)]
+CurrentUICulture: zh-CN [Chinese (Simplified, China)]
+CurrentCulture: zh-CN [Chinese (Simplified, China)]
+
+2024-10-09 14:39:15,593 [1] INFO  Logger (null) - Now setting up JitProfiles...
+2024-10-09 14:39:15,594 [1] INFO  Logger (null) - JitProfiles successfully setup!
+2024-10-09 14:39:15,596 [1] INFO  Logger (null) - Now beginning pre-start tasks.
+2024-10-09 14:39:15,596 [1] INFO  Logger (null) - Now checking prerequisites...
+2024-10-09 14:39:15,601 [1] ERROR Logger (null) - [中控设置] 默认设置操作系统 = Windows10.

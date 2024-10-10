@@ -1,0 +1,65 @@
+NewGame
+#######################################################################
+#######################################################################
+开始计算, 已花费时间: 23:39:58 V2021.09.13 丨通用丨不设惩罚 3000 maxCal 60 maxWide 3000 face 20 womob:3 twoturnsim 1 ntss 10 20 200 playaround 50 80 ets 40 ets2 230 secret weight 80 aA 0
+recalc-check###########
+法力水晶改变 1 -100 0 0 1 0
+cut to len 去重从1 到 1
+cut to len 去重从1 到 1
+cut to len 去重从0 到 0
+-------------------------------------
+value of best board 22
+bestplay.playactions ################################# START
+使用英雄技能 目标 空
+让英雄攻击 敌方英雄(29)
+bestplay.playactions ################################# END
+calculated 0.2358641
+使用英雄技能 目标 空
+#######################################################################
+#######################################################################
+开始计算, 已花费时间: 23:40:00 V2021.09.13 丨通用丨不设惩罚 3000 maxCal 60 maxWide 3000 face 20 womob:3 twoturnsim 1 ntss 10 20 200 playaround 50 80 ets 40 ets2 230 secret weight 80 aA 0
+recalc-check###########
+卡组/疲劳改变37 36 44 44 0 0 0 0
+noRecalcNeeded!!!-----------------------------------
+nmgsim-
+nmgsime-
+让英雄攻击 敌方英雄(29)
+#######################################################################
+#######################################################################
+开始计算, 已花费时间: 23:40:03 V2021.09.13 丨通用丨不设惩罚 3000 maxCal 60 maxWide 3000 face 20 womob:3 twoturnsim 1 ntss 10 20 200 playaround 50 80 ets 40 ets2 230 secret weight 80 aA 0
+recalc-check###########
+卡组/疲劳改变37 36 44 44 0 0 0 0
+noRecalcNeeded!!!-----------------------------------
+#################### Settings #########################################
+path = .\Routines\DefaultRoutine\Silverfish\Data\
+logpath = .\Routines\DefaultRoutine\Silverfish\UltimateLogs\
+logfile = UILogg_2024-10-09_23-39-44.txt
+twotsamount = 1
+secondTurnAmount = 1
+playaroundprob2 = 80
+playaroundprob = 50
+nextTurnTotalBoards = 200
+nextTurnMaxWide = 20
+nextTurnDeep = 10
+maxwide = 3000
+enfacehp = 20
+weaponOnlyAttackMobsUntilEnfacehp = 3
+enemyTurnMaxWideSecondStep = 230
+enemyTurnMaxWide = 40
+alpha = 80
+secondweight = 0.8
+firstweight = 0.2
+writeToSingleFile = False
+useSecretsPlayAround = True
+useExternalProcess = False
+placement = 0
+simulateEnemysTurn = True
+printlearnmode = True
+playaround = True
+passiveWaiting = False
+learnmode = True
+enemyConcede = False
+concede = False
+speedupLevel = 0
+adjustActions = 0
+#################### Settings End #####################################

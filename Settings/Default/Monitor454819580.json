@@ -1,0 +1,23 @@
+{
+  "Wins": 2,
+  "Losses": 2,
+  "Concedes": 2,
+  "Level": 18,
+  "Xp": 652,
+  "XpNeeded": 1125,
+  "AllXp": 5527,
+  "AllXpNeeded": 602200,
+  "AllRunTime": 1285,
+  "AllRunTimeText": "0.36",
+  "AllGetXp": 85,
+  "PerHourXp": 500,
+  "PerHourXpStr": "500/小时",
+  "FullXpNeeded": 596673,
+  "FullTimeNeeded": "49天17小时",
+  "Collection": "金币(2300) 粉尘(960) 门票(1)",
+  "PassportEnd": "7.24-11.24 已过77天23小时40分 还剩45天",
+  "ClassicInfo": "青铜10 0星 0/0(胜0.00%)",
+  "StandardInfo": "白银5 0星 14/29(胜48.28%)",
+  "WildInfo": "青铜6 2星 2/8(胜25.00%)",
+  "TwistInfo": "青铜10 0星 0/0(胜0.00%)"
+}
